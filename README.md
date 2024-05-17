@@ -4,7 +4,7 @@
 <img width="10%" height="10%" src="https://user-images.githubusercontent.com/120980/174325546-8558160b-7f16-42cb-af0f-511849f22ebc.png">
 </p>
 
-## Gradle Tasks Exercise
+## Gradle Dependency Management Exercise
 
 This is a hands-on exercise to go along with the
 [Introduction to Gradle Build Tool for Developers](https://dpeuniversity.gradle.com/app/courses/012de84f-fcd3-45d4-9c4c-284382eb3f3f)
